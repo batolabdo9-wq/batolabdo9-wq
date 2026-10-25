@@ -1,6 +1,6 @@
  
 <!-- Animated Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:9D80D0,50:B39DDB,100:D8C8F0&height=200&section=header&text=Batool%20Hammed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Power%20BI%20%7C%20SQL&descAlignY=60&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:9D80D0,50:B39DDB,100:D8C8F0&height=200&section=header&text=Batool%20Hammed&fontSize=40&fontColor=#000000&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Power%20BI%20%7C%20SQL&descAlignY=60&descSize=16)
 
 <!-- Typing Animation -->
 <p align="center">
